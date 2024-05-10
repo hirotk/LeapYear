@@ -1,5 +1,5 @@
 // Usage:
-// % dotnet fsi LeafYear.fsx 2024
+// % dotnet fsi LeapYear.fsx 2024
 
 // Long version of type annotation
 // let isLeapYear : 

@@ -4,7 +4,7 @@ This is a sample of F# script.
 
 ### Usage
 ```
-% dotnet fsi LeafYear.fsx 2024
+% dotnet fsi LeapYear.fsx 2024
 ```
 
 ### Appendix
